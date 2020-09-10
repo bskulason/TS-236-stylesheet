@@ -5,6 +5,9 @@
 [![Version](https://img.shields.io/github/release/unimaze/unimaze-peppol-stylesheets.svg)](https://github.com/unimaze/unimaze-peppol-stylesheets/releases)
 [![License](https://img.shields.io/badge/license-Apache%20v2.0-brightgreen.svg)](LICENSE.txt)
  
+This template is published by Icelandic Standards (Stadlaráð Íslands) by FUT/GRV, commitee TS237, as supporting documentation for TS236 technical specifiiaction. 
+This product will be updated reglularly.
+= = = 
 This template is being implemented by Unimaze Software with feedback from the FUT Technical Committee of Icelandic Standards, which 
 is a member of the European standards organizations CEN, CENELEC and ETSI as well as the international standards organizations ISO and IEC.
 
